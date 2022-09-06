@@ -1,5 +1,5 @@
 local library = {
-	Version = "3.0",
+	Version = "3.1",
 	WorkspaceName = "Wave Hub Premium",
 	flags = {},
 	signals = {},
